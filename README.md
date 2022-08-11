@@ -7,8 +7,8 @@ Instale o FrameWork SpringToolsSuite (STS) para abrir o código do back-end </br
 Instale o VS Code para verificar o código do front-end </br><br>
 
 -Abra um terminal no git bash dentro da pasta "front-end" e digite os comandos a seguir;</br><br>
-    yarn           (espere a instalação das dependências)</br>
-    yarn add react-datepicker@4.8.0 @types/react-datepicker@4.4.2          (Aguarde a instalação)</br>
+    yarn           
+    yarn add react-datepicker@4.8.0 @types/react-datepicker@4.4.2        
     
 Agora para a parte de back-end; <br> <br>
 
