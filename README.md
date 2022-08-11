@@ -24,8 +24,8 @@ Dentro do STS configure as variáveis de ambiente de acordo com a sua conta da T
     
 Agora novamente dentro do terminal do git bash do front-end, insira os seguintes comandos para instalar as dependências;<br><br>
 
-    yarn add axios@0.27.2<br>
-    yarn add react-toastify@9.0.5<br><br>
+    yarn add axios@0.27.2
+    yarn add react-toastify@9.0.5
 
 Para começar a utilizar o projeto, basta entrar no STS e rodar o programa.
 Para conferir se o projeto está funcionando, você pode testar o link (http://localhost:8080/sales?minDate=2022-01-01&maxDate=2022-03-31) dentro do postman utilizando o método GET.
