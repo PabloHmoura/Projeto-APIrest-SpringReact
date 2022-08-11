@@ -37,7 +37,7 @@ venda para o telefone que fpo cadastrado na TWILLIO.<br><br>
 
 Agora dentro do terminal do front-end novamente, digite o comando a seguir;<br><br>
 
-    yarn dev<br><br>
+    yarn dev
     
 Isso irá te retornar o link para visualizar o site na web dentro do localhost. Após isso o projeto deve funcionar completamente.<br><br>
 
