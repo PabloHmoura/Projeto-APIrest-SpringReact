@@ -29,9 +29,9 @@ Agora novamente dentro do terminal do git bash do front-end, insira os seguintes
 
 Para começar a utilizar o projeto, basta entrar no STS e rodar o programa.
 Para conferir se o projeto está funcionando, você pode testar o link (http://localhost:8080/sales?minDate=2022-01-01&maxDate=2022-03-31) dentro do postman utilizando o método GET.
-Isso deverá retornar os dados do banco de acordo com a data especifícada (Lembrando que os dados foram inseridos manualmente dentro do STS).<br>
+Isso deverá retornar os dados do banco de acordo com as datas especificadas (Lembrando que os dados foram inseridos manualmente dentro do STS).<br>
 
-Se você configurou as variáveis de ambiente corretamente, basta rodar o link a seguir no postman (http://localhost:8080/sales/40/notification). Isso deverá encaminhar o SMS com os dados da
+Se você configurou as variáveis de ambiente corretamente, basta rodar o link a seguir no postman utilizando o método GET(http://localhost:8080/sales/40/notification). Isso deverá encaminhar o SMS com os dados da
 venda para o telefone que fpo cadastrado na TWILLIO.<br><br>
 
 
