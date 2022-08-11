@@ -32,7 +32,7 @@ Para conferir se o projeto está funcionando, você pode testar o link (http://l
 Isso deverá retornar os dados do banco de acordo com as datas especificadas (Lembrando que os dados foram inseridos manualmente dentro do STS).<br>
 
 Se você configurou as variáveis de ambiente corretamente, basta rodar o link a seguir no postman utilizando o método GET(http://localhost:8080/sales/40/notification). Isso deverá encaminhar o SMS com os dados da
-venda para o telefone que fpo cadastrado na TWILLIO.<br><br>
+venda para o telefone que foi cadastrado na TWILLIO.<br><br>
 
 
 Agora dentro do terminal do front-end novamente, digite o comando a seguir;<br><br>
