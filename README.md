@@ -7,6 +7,7 @@ Instale o FrameWork SpringToolsSuite (STS) para abrir o código do back-end </br
 Instale o VS Code para verificar o código do front-end </br><br>
 
 -Abra um terminal no git bash dentro da pasta "front-end" e digite os comandos a seguir;</br><br>
+
     yarn           
     yarn add react-datepicker@4.8.0 @types/react-datepicker@4.4.2        
     
@@ -16,6 +17,7 @@ Você precisará criar uma conta na TWILLIO e cadastrar o seu número de Telefon
 
 Dentro do STS configure as variáveis de ambiente de acordo com a sua conta da TWILLIO<br><br>
     Definir variáveis de ambiente:<br>
+    
     TWILIO_SID <br>
     TWILIO_KEY<br>
     TWILIO_PHONE_FROM<br>
